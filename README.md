@@ -1,7 +1,7 @@
 # Web Services
-* ゲーム音楽
+* 🎵 ゲーム音楽
   * https://video-game-music.net
-* XState Tips
+* 🚥 XState Tips
   * https://state-machine-memo.netlify.app
 
 # Status
