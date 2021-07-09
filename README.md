@@ -5,10 +5,11 @@
   * https://state-machine-memo.netlify.app
 
 # Status
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=himanushi&column=8&no-frame=true"/>
+</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=himanushi&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanushi" />
-</a>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=himanushi&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanushi&layout=compact" />
+</div>
