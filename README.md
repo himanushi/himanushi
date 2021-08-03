@@ -1,5 +1,5 @@
 # 🎁 Web Services
-* 🎵 ゲーム音楽
+* 🎵 Video Game Music List
   * https://video-game-music.net
 * 🚥 XState Tips
   * https://state-machine-memo.netlify.app
