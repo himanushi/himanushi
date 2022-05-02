@@ -5,6 +5,11 @@
 * 🚥 XState Tips
   * https://state-machine-memo.netlify.app
 
+# 📱 Application
+
+* 🎵 ゲーム音楽
+   * https://apps.apple.com/jp/app/id1589081888 
+
 # 🔌 NPM Packages
 
 * 🎶 capacitor-plugin-applemusic
