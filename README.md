@@ -7,8 +7,8 @@
 
 # 🔌 NPM Packages
 
-* 🎶 capacitor-plugin-applemusic
-  * https://www.npmjs.com/package/capacitor-plugin-applemusic
+* [🎶 capacitor-plugin-musickit](https://www.npmjs.com/package/capacitor-plugin-musickit)
+* [🎶 capacitor-plugin-applemusic](https://www.npmjs.com/package/capacitor-plugin-applemusic)
 
 # 🏆 Github Profile Trophy
 
