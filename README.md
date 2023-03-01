@@ -7,6 +7,7 @@
 
 # 🔌 NPM Packages
 
+* [🎨 capacitor-plugin-stable-diffusion](https://www.npmjs.com/package/capacitor-plugin-stable-diffusion)
 * [🎶 capacitor-plugin-musickit](https://www.npmjs.com/package/capacitor-plugin-musickit)
 * [🎶 capacitor-plugin-applemusic](https://www.npmjs.com/package/capacitor-plugin-applemusic)
 
