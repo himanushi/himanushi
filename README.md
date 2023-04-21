@@ -8,7 +8,6 @@
 * 🚥 XState Tips
   * https://state-machine-memo.netlify.app
 
-
 # 🔌 NPM Packages
 
 * [🎨 capacitor-plugin-stable-diffusion](https://www.npmjs.com/package/capacitor-plugin-stable-diffusion)
