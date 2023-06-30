@@ -25,6 +25,7 @@
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=himanushi&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanushi&layout=compact" />
+  <img width="364" alt="スクリーンショット 2023-06-30 9 20 49" src="https://github.com/himanushi/himanushi/assets/27812830/cc0a8045-8c9d-45b8-a44f-452764dacf9b">
 </div>
 
 # 💻 Languages and Tools
