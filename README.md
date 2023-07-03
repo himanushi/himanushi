@@ -8,7 +8,7 @@
 * 🚥 XState Tips
   * https://state-machine-memo.netlify.app
 
-# 👾 Application
+# 👾 Application(iOS)
 
 * ♪ ゲーム音楽
   * https://apps.apple.com/jp/app/id1589081888
