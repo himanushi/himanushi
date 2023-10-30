@@ -3,7 +3,7 @@
 * 🎵 Video Game Music List
   * https://video-game-music.net
 * 🌏 Free Tarot
-  * https://video-game-music.net
+  * https://freetarot.netlify.app
 * 🤖 Chat Code
   * https://chat-c.netlify.app
 * 🚥 XState Tips
