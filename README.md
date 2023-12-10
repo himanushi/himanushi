@@ -30,7 +30,7 @@
 # 📊 Github Profile Status
 
 <div>
-  <img width="369" alt="スクリーンショット 2023-09-05 8 40 19" src="https://github.com/himanushi/music-app-v7/assets/27812830/fc5d8306-3e4d-470a-8343-093a9b4da018">
+  <img width="355" alt="スクリーンショット 2023-12-10 18 22 08" src="https://github.com/himanushi/himanushi/assets/27812830/83ae90c0-4405-40d5-af44-e875cdad557c">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanushi&layout=compact" />
 </div>
 
