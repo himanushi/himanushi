@@ -29,7 +29,9 @@
 
 # 📊 Github Profile Status
 
-<div>
-  <img width="374" alt="スクリーンショット 2024-06-23 14 27 14" src="https://github.com/himanushi/himanushi/assets/27812830/c232d118-af03-4e06-85b8-1063b0082aed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanushi&layout=compact" />
-</div>
+<img width="374" alt="スクリーンショット 2024-06-23 14 27 14" src="https://github.com/himanushi/himanushi/assets/27812830/c232d118-af03-4e06-85b8-1063b0082aed">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanushi&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanushi&theme=vue)
+
+
