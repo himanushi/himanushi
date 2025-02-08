@@ -2,6 +2,8 @@
 
 * 🎵 Video Game Music List
   * https://video-game-music.net
+* ⌚️ Dithering Converter
+  * https://dithering-converter.pages.dev 
 * 🌏 Free Tarot
   * https://freetarot.netlify.app
 * 🤖 Chat Code
