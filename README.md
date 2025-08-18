@@ -11,12 +11,6 @@
 * 🚥 XState Tips
   * https://state-machine-memo.netlify.app
 
-
-# 🍎 Application(iOS)
-
-* ♪ ゲーム音楽
-  * https://apps.apple.com/jp/app/id1589081888
-
 # 🔌 NPM Packages
 
 * [🎨 capacitor-plugin-stable-diffusion](https://www.npmjs.com/package/capacitor-plugin-stable-diffusion)
