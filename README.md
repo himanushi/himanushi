@@ -1,6 +1,9 @@
 # 🎁 Web Services
 
+* ✍️ 美文字漢字練習
+  * https://kanji-kakijun.pages.dev
 * 🎵 Video Game Music List
+  * 閉鎖中
   * https://video-game-music.net
 * ⌚️ Dithering Converter
   * https://dithering-converter.pages.dev 
