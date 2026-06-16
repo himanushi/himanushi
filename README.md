@@ -1,15 +1,15 @@
 # 🎁 Web Services
 
-* ✍️ 美文字漢字練習
-  * https://kanji-kakijun.pages.dev
 * 🎵 Video Game Music List
   * https://video-game-music.net
-* ⌚️ Dithering Converter
-  * https://dithering-converter.pages.dev 
-* 🌏 Free Tarot
-  * https://freetarot.netlify.app
 * 🤖 Chat Code
   * https://chat-c.netlify.app
+* 🌏 Free Tarot
+  * https://freetarot.netlify.app
+* ✍️ 美文字漢字練習
+  * https://kanji-kakijun.pages.dev
+* ⌚️ Dithering Converter
+  * https://dithering-converter.pages.dev 
 * 🚥 XState Tips
   * https://state-machine-memo.netlify.app
 
